@@ -1,1 +1,1 @@
-# Learning projects is stored here
+# Learning projects are stored here
